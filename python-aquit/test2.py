@@ -16,9 +16,6 @@ def adjust_gamma(image, gamma=1.0):
 #image input
 image = cv2.imread('stroopw.jpeg', 0)
 
-def show(image)
-	plt.
-
 def find_cookie(image)
 
 	#Image scaling
